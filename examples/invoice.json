@@ -1,0 +1,9 @@
+{
+  "invoice_number": "DEMO-1001",
+  "currency": "USD",
+  "tax_rate": "0.08",
+  "items": [
+    {"description": "Consulting service", "quantity": 2, "unit_price": "150.00"},
+    {"description": "Software setup", "quantity": 1, "unit_price": "75.00"}
+  ]
+}
